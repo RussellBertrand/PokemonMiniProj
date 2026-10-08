@@ -2,7 +2,7 @@
 
 React + Vite Pokédex built from the Week 6 instructions (Steps 1–4), plus extras for the "make it cool" bonus.
 
-**Live site:** https://YOUR-USERNAME.github.io/pokedex-mini/
+**Live site:** https://RussellBertrand.github.io/pokedex-mini/
 
 ## Features
 - Browse all 1025 Pokémon in a card grid with "Load more" and loading skeletons
